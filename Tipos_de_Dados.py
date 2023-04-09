@@ -1,4 +1,4 @@
-'''Uma característica em comum dentre os tuples, lists e dicts é permitir qualquer tipo de dado. 
+'''Uma característica em comum dentre os tuples, lists e dicts é permitir qualquer tipo de dados. 
 Os tipos de dados existentes na linguagem Python podem ser divididos em categorias:'''
 
  texto =	 str
