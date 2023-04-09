@@ -93,3 +93,6 @@ cidade_para_codigo['CAMPINAS']
 cidade_para_codigo.get('CAMPINAS', 'Código não cadastrado')
 
 # 'Código não cadastrado'
+
+'''O segundo argumento do método .get de dicionários é o valor que será retornado quando a chave (primeiro argumento)
+não for encontrada.'''
