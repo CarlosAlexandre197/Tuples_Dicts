@@ -1,2 +1,2 @@
 # Tuples_Dicts
-Exemplos de Tuplas e Dicionários em Python.
+Examples of Tuples and Dictionaries in Python.
